@@ -15,7 +15,7 @@ F1::
 	Send {Enter down}
 	Sleep 50
 	Send {Enter up}
-	Send, I hunt the unborn children{Enter}
+	Send, I hunt{Enter}
 	Send {Enter down}
 	Sleep 50
 	Send {Enter up}
@@ -30,7 +30,7 @@ F2::
 	Send {Enter down}
 	Sleep 50
 	Send {Enter up}
-	Send, I capture the non-believers{Enter}
+	Send, I capture{Enter}
 	Send {Enter down}
 	Sleep 50
 	Send {Enter up}
@@ -89,7 +89,7 @@ g::
 	Send {Enter down}
 	Sleep 50
 	Send {Enter up}
-	Send,These smoke bombs suck ass{Enter}
+	Send, Smoke for you{Enter}
 	Send {Enter down}
 	Sleep 50
 	Send {Enter up}
